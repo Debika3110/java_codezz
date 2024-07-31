@@ -1,0 +1,81 @@
+Index: out/production/java_codezz/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\r\n/shelf/\r\n/workspace.xml\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/production/java_codezz/.idea/.gitignore b/out/production/java_codezz/.idea/.gitignore
+--- a/out/production/java_codezz/.idea/.gitignore	(revision 5e9734dbc2597fe97f46663aeecb3fc649e3717d)
++++ b/out/production/java_codezz/.idea/.gitignore	(date 1721384467615)
+@@ -1,3 +1,4 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
++# Ignore compiled Java class files
++*.class
++out/
++
+Index: numOfzeros.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/numOfzeros.java b/numOfzeros.java
+new file mode 100644
+--- /dev/null	(date 1722441089198)
++++ b/numOfzeros.java	(date 1722441089198)
+@@ -0,0 +1,23 @@
++public class numOfzeros {
++    public static void main(String[] args) {
++        System.out.println(rev(800110));
++    }
++    public static int rev(int n){
++       // int digits=(int)(Math.log10(n))+1;
++        int c=0;
++        return helper(n,c);
++    }
++
++    public static int helper(int n,int c){
++        if(n==0) {
++            return c;
++        }
++        if(n%10==0) {
++            return helper(n/10,c+1);
++        }
++            return helper(n/10,c);
++    }
++
++}
++
++
+Index: palandriom_rev.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/palandriom_rev.java b/palandriom_rev.java
+new file mode 100644
+--- /dev/null	(date 1722440527846)
++++ b/palandriom_rev.java	(date 1722440527846)
+@@ -0,0 +1,20 @@
++public class palandriom_rev {
++    public static void main(String[] args) {
++        System.out.println(plan(111));
++    }
++    public static int rev(int n){
++        int digits=(int)(Math.log10(n))+1;
++        return helper(n,digits);
++    }
++
++    public static int helper(int n,int digits){
++        if(n%10==n){
++            return n;
++        }
++        int rem=n%10;
++        return rem*(int)(Math.pow(10,digits-1))+helper(n/10,digits-1);
++    }
++    public static boolean plan(int n){
++        return n==rev(n);
++    }
++}
