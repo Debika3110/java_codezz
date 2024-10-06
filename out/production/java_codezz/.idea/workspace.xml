@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afd6b3d-5594-4037-bf3b-9031dfc05151" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/AddsumMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringSkipp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parmutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subSeqence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuplicaateInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntersectionofTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trapping_rain_Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intervalProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productOfaArrayexceptItself.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_codezz/.idea/shelf/Uncommitted_changes_before_Update_at_31-07-2024_09_12_pm_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_codezz/.idea/shelf/Uncommitted_changes_before_Update_at_31-07-2024_09_12_pm__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_codezz/.idea/shelf/Uncommitted_changes_before_Update_at_31-07-2024_09_23_pm_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_codezz/.idea/shelf/Uncommitted_changes_before_Update_at_31-07-2024_09_23_pm__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,17 +59,24 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AddsumMatch.executor": "Run",
+    "Application.BestTimeToBuyAndSellStock.executor": "Run",
     "Application.BubbleSortUsingRecursion.executor": "Run",
     "Application.CafeManagementSystem.executor": "Run",
     "Application.CoffeeShopManagement.executor": "Run",
+    "Application.ContainerWithMostWater.executor": "Run",
     "Application.Debika.executor": "Run",
+    "Application.DuplicaateInArray.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
     "Application.Quiz.executor": "Run",
+    "Application.RotateArray.executor": "Run",
     "Application.SelectionSortUsingRecursion.executor": "Run",
     "Application.StringSkipp.executor": "Run",
+    "Application.Trapping_rain_Water.executor": "Run",
     "Application.arraySum.executor": "Run",
     "Application.demo.executor": "Run",
     "Application.dice.executor": "Run",
+    "Application.intervalProblem.executor": "Run",
     "Application.leetcodeprblm.executor": "Run",
     "Application.lineraSearchInRecursion.executor": "Run",
     "Application.mergeSort.executor": "Run",
@@ -81,6 +84,7 @@
     "Application.palandriom_rev.executor": "Run",
     "Application.parmutation.executor": "Run",
     "Application.patternUsingrecursion.executor": "Run",
+    "Application.productOfaArrayexceptItself.executor": "Run",
     "Application.sortUsingRecursion.executor": "Run",
     "Application.subSeqence.executor": "Run",
     "Application.test.executor": "Run",
@@ -233,7 +237,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722878483150</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1727803165125</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727803165125</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1727803194664</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727803194664</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
