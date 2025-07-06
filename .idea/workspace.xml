@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afd6b3d-5594-4037-bf3b-9031dfc05151" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuplicaateInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntersectionofTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trapping_rain_Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intervalProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productOfaArrayexceptItself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicatesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removeDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortArraysOfZerosOnesTwos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -68,6 +62,7 @@
     "Application.Debika.executor": "Run",
     "Application.DuplicaateInArray.executor": "Run",
     "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.MajorityElement.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
     "Application.MoveZeros.executor": "Run",
     "Application.Quiz.executor": "Run",
@@ -78,6 +73,7 @@
     "Application.arraySum.executor": "Run",
     "Application.demo.executor": "Run",
     "Application.dice.executor": "Run",
+    "Application.duplicatesInArray.executor": "Run",
     "Application.intervalProblem.executor": "Run",
     "Application.leetcodeprblm.executor": "Run",
     "Application.lineraSearchInRecursion.executor": "Run",
@@ -87,6 +83,8 @@
     "Application.parmutation.executor": "Run",
     "Application.patternUsingrecursion.executor": "Run",
     "Application.productOfaArrayexceptItself.executor": "Run",
+    "Application.removeDuplicate.executor": "Run",
+    "Application.sortArraysOfZerosOnesTwos.executor": "Run",
     "Application.sortUsingRecursion.executor": "Run",
     "Application.subSeqence.executor": "Run",
     "Application.test.executor": "Run",
@@ -255,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727803194664</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1728241633475</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728241633475</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
