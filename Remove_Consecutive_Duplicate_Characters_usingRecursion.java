@@ -1,0 +1,2 @@
+package PACKAGE_NAME;public class Remove_Consecutive_Duplicate_Characters_usingRecursion {
+}
