@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8afd6b3d-5594-4037-bf3b-9031dfc05151" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/java_codezz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_subset_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Check_ArraySorted_orNot_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Max_SubArray_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse_Words_in_a_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse_Words_in_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicate_in_array_withBitMaupilation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibo_usingDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generateParanthesis_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lowercaseTouppercase_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mergeSort_usingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimunCoins_to_make_a_amount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/java_codezz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/AddsumMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/BestTimeToBuyAndSellStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/BubbleSortUsingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/BubbleSort_recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Check_ArraySorted_orNot_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/ContainerWithMostWater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Debika.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/DuplicaateInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/IntersectionofTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/LongestConsecutiveSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/MajorityElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/MaxSubArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/MoveZeros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Quiz$Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Quiz$QuizFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Quiz$QuizFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Quiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Remove_Consecutive_Duplicate_Characters_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Reverse_Words_in_a_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/RotateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/SelectionSortUsingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/StringSkipp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Trapping_rain_Water.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/TwoSumProblem_in_array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/arraySum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/balanceParanthesis_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/checkArrayIsSortedOrNot_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/dice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/duplicate_in_array_withBitMaupilation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/duplicatesInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/even_oddPosition_insertionSorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/factorialOfNumber_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/geek_onachi_no.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/insertionSort_OnLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/insertionSort_OnLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/insertionSort_onString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/intervalProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/isPrimeOrNot_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/leetcodeprblm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/lengthOfString_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/lineraSearchInRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/mergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/mergeSort_usingLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/min_max_useingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/numOfzeros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/numberOfStepsToReduceNumberToZero_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/numberOfSwapsToSortArray_usingInsertion_sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/palandriom_rev.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/palindrom_check_for_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/parmutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/patternUsingrecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/powerOfFour_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/powerOfThree_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/powerOfTwo_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/productOfNaturalNumber_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/productOfaArrayexceptItself.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/product_of_two_using_recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/quickSorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/removeDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/reverse_characterString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/selectionSortOnString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sortArraysOfZerosOnesTwos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sortUsingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/subSeqence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/subset_generation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sumOfnum_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sum_of_n_numbers_usingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sum_triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/uniqueElement_count.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/uppercase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindrom_check_for_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perfectSum_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutationWithOutDuplicates_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutationWithSwap_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutation_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverseString_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_characterString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_fiboSeries_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subStringGenerate_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subsetSum_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subset_generation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subset_withSum_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum_of_n_numbers_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/targetSum_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/targetSum_withRepetingNumbers_usingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/waysTogetSum_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort_recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort_recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remove_Consecutive_Duplicate_Characters_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Remove_Consecutive_Duplicate_Characters_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSumProblem_in_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSumProblem_in_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/balanceParanthesis_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/balanceParanthesis_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkArrayIsSortedOrNot_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkArrayIsSortedOrNot_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/even_oddPosition_insertionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/even_oddPosition_insertionSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorialOfNumber_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/factorialOfNumber_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek_onachi_no.java" beforeDir="false" afterPath="$PROJECT_DIR$/geek_onachi_no.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insertionSort_OnLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/insertionSort_OnLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insertionSort_onString.java" beforeDir="false" afterPath="$PROJECT_DIR$/insertionSort_onString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isPrimeOrNot_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/isPrimeOrNot_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfString_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/lengthOfString_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/min_max_useingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/min_max_useingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberOfStepsToReduceNumberToZero_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/numberOfStepsToReduceNumberToZero_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberOfSwapsToSortArray_usingInsertion_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/numberOfSwapsToSortArray_usingInsertion_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerOfFour_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/powerOfFour_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerOfThree_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/powerOfThree_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerOfTwo_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/powerOfTwo_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productOfNaturalNumber_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/productOfNaturalNumber_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_of_two_using_recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/product_of_two_using_recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selectionSortOnString.java" beforeDir="false" afterPath="$PROJECT_DIR$/selectionSortOnString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumOfnum_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/sumOfnum_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sum_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/sum_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniqueElement_count.java" beforeDir="false" afterPath="$PROJECT_DIR$/uniqueElement_count.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Debika Ghosal &lt;118683412+debika3110@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jSVicsAXcc5YIwWhLvfKHR4LHv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AddsumMatch.executor": "Run",
+    "Application.BestTimeToBuyAndSellStock.executor": "Run",
+    "Application.BubbleSortUsingRecursion.executor": "Run",
+    "Application.BubbleSort_recursion.executor": "Run",
+    "Application.CafeManagementSystem.executor": "Run",
+    "Application.Check_ArraySorted_orNot_usingRecursion.executor": "Run",
+    "Application.CoffeeShopManagement.executor": "Run",
+    "Application.ContainerWithMostWater.executor": "Run",
+    "Application.Debika.executor": "Run",
+    "Application.DuplicaateInArray.executor": "Run",
+    "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.MajorityElement.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
+    "Application.Max_SubArray_Sum.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
+    "Application.Quiz.executor": "Run",
+    "Application.Remove_Consecutive_Duplicate_Characters_usingRecursion.executor": "Run",
+    "Application.Reverse_Words_in_a_String.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SelectionSortUsingRecursion.executor": "Run",
+    "Application.StringSkipp.executor": "Run",
+    "Application.Trapping_rain_Water.executor": "Run",
+    "Application.TwoSumProblem_in_array.executor": "Run",
+    "Application.arraySum.executor": "Run",
+    "Application.balanceParanthesis_usingRecursion.executor": "Run",
+    "Application.checkArrayIsSortedOrNot_usingRecursion.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.dice.executor": "Run",
+    "Application.duplicate_in_array_withBitMaupilation.executor": "Run",
+    "Application.duplicatesInArray.executor": "Run",
+    "Application.even_oddPosition_insertionSorting.executor": "Run",
+    "Application.factorialOfNumber_usingRecursion.executor": "Run",
+    "Application.fibo_usingDP.executor": "Run",
+    "Application.geek_onachi_no.executor": "Run",
+    "Application.generateParanthesis_usingRecursion.executor": "Run",
+    "Application.insertionSort_OnLinkedList.executor": "Run",
+    "Application.insertionSort_onString.executor": "Run",
+    "Application.intervalProblem.executor": "Run",
+    "Application.isPrimeOrNot_usingRecursion.executor": "Run",
+    "Application.leetcodeprblm.executor": "Run",
+    "Application.lengthOfString_usingRecursion.executor": "Run",
+    "Application.lineraSearchInRecursion.executor": "Run",
+    "Application.lowercaseTouppercase_usingRecursion.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.mergeSort.executor": "Run",
+    "Application.mergeSort_usingLists.executor": "Run",
+    "Application.min_max_useingRecursion.executor": "Run",
+    "Application.numOfzeros.executor": "Run",
+    "Application.numberOfStepsToReduceNumberToZero_usingRecursion.executor": "Run",
+    "Application.numberOfSwapsToSortArray_usingInsertion_sort.executor": "Run",
+    "Application.palandriom_rev.executor": "Run",
+    "Application.palindrom_check_for_String.executor": "Run",
+    "Application.parmutation.executor": "Run",
+    "Application.patternUsingrecursion.executor": "Run",
+    "Application.perfectSum_usingRecursion.executor": "Run",
+    "Application.permutationWithOutDuplicates_usingRecursion.executor": "Run",
+    "Application.permutationWithSwap_usingRecursion.executor": "Run",
+    "Application.permutation_usingRecursion.executor": "Run",
+    "Application.powerOfFour_usingRecursion.executor": "Run",
+    "Application.powerOfThree_usingRecursion.executor": "Run",
+    "Application.powerOfTwo_usingRecursion.executor": "Run",
+    "Application.productOfNaturalNumber_usingRecursion.executor": "Run",
+    "Application.productOfaArrayexceptItself.executor": "Run",
+    "Application.product_of_two_using_recursion.executor": "Run",
+    "Application.removeDuplicate.executor": "Run",
+    "Application.reverse_characterString.executor": "Run",
+    "Application.selectionSortOnString.executor": "Run",
+    "Application.sortArraysOfZerosOnesTwos.executor": "Run",
+    "Application.sortUsingRecursion.executor": "Run",
+    "Application.subSeqence.executor": "Run",
+    "Application.subStringGenerate_usingRecursion.executor": "Run",
+    "Application.subsetSum_usingRecursion.executor": "Run",
+    "Application.subset_generation.executor": "Run",
+    "Application.subset_withSum_usingRecursion.executor": "Run",
+    "Application.sumOfnum_usingRecursion.executor": "Run",
+    "Application.sum_of_n_numbers_usingRecursion.executor": "Run",
+    "Application.sum_triangle.executor": "Run",
+    "Application.targetSum_usingRecursion.executor": "Run",
+    "Application.targetSum_withRepetingNumbers_usingRecursion.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.uniqueElement_count.executor": "Run",
+    "Application.uppercase.executor": "Run",
+    "Application.waysTogetSum_usingRecursion.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/Desktop/oops_java",
+    "settings.editor.selected.configurable": "vcs.Git"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8afd6b3d-5594-4037-bf3b-9031dfc05151" name="Changes" comment="" />
+      <created>1721380592383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721380592383</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create java">
+      <option name="closed" value="true" />
+      <created>1721380726570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721380726570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create java">
+      <option name="closed" value="true" />
+      <created>1721380916950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721380916950</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create java">
+      <option name="closed" value="true" />
+      <created>1721385250191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721385250191</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create java">
+      <option name="closed" value="true" />
+      <created>1722440487025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722440487025</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create java">
+      <option name="closed" value="true" />
+      <created>1722440502416</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722440502416</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1722441197362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722441197362</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1722441611209</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722441611209</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1722442537619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722442537619</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1722442927243</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722442927243</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1722535530669</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722535530669</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/java_codezz/leetcodeprblm.class">
+      <option name="closed" value="true" />
+      <created>1722535667275</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722535667275</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/java_codezz/leetcodeprblm.class">
+      <option name="closed" value="true" />
+      <created>1722876313858</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722876313858</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/java_codezz/leetcodeprblm.class">
+      <option name="closed" value="true" />
+      <created>1722877075717</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722877075717</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/java_codezz/leetcodeprblm.class">
+      <option name="closed" value="true" />
+      <created>1722878382714</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722878382714</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1722878457293</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722878457293</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1722878483150</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722878483150</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1727803165125</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727803165125</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1727803194664</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727803194664</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1728241633475</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728241633475</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Create java" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/java_codezz/leetcodeprblm.class" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+</project>
