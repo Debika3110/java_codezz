@@ -5,146 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afd6b3d-5594-4037-bf3b-9031dfc05151" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/java_codezz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_subset_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Check_ArraySorted_orNot_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Max_SubArray_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse_Words_in_a_String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse_Words_in_a_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicate_in_array_withBitMaupilation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibo_usingDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generateParanthesis_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lowercaseTouppercase_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mergeSort_usingLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minimunCoins_to_make_a_amount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/java_codezz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/AddsumMatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/BestTimeToBuyAndSellStock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/BubbleSortUsingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/BubbleSort_recursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Check_ArraySorted_orNot_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/ContainerWithMostWater.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Debika.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/DuplicaateInArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/IntersectionofTwoArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/LongestConsecutiveSequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/MajorityElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/MaxSubArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/MoveZeros.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Quiz$Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Quiz$QuizFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Quiz$QuizFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Quiz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Remove_Consecutive_Duplicate_Characters_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Reverse_Words_in_a_String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/RotateArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/SelectionSortUsingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/StringSkipp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/Trapping_rain_Water.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/TwoSumProblem_in_array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/arraySum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/balanceParanthesis_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/checkArrayIsSortedOrNot_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/dice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/duplicate_in_array_withBitMaupilation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/duplicatesInArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/even_oddPosition_insertionSorting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/factorialOfNumber_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/geek_onachi_no.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/insertionSort_OnLinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/insertionSort_OnLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/insertionSort_onString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/intervalProblem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/isPrimeOrNot_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/leetcodeprblm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/lengthOfString_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/lineraSearchInRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/mergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/mergeSort_usingLists.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/min_max_useingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/numOfzeros.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/numberOfStepsToReduceNumberToZero_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/numberOfSwapsToSortArray_usingInsertion_sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/palandriom_rev.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/palindrom_check_for_String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/parmutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/patternUsingrecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/powerOfFour_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/powerOfThree_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/powerOfTwo_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/productOfNaturalNumber_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/productOfaArrayexceptItself.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/product_of_two_using_recursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/quickSorting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/removeDuplicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/reverse_characterString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/selectionSortOnString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sortArraysOfZerosOnesTwos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sortUsingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/subSeqence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/subset_generation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sumOfnum_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sum_of_n_numbers_usingRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/sum_triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/uniqueElement_count.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_codezz/uppercase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrom_check_for_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perfectSum_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutationWithOutDuplicates_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutationWithSwap_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutation_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverseString_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_characterString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_fiboSeries_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subStringGenerate_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subsetSum_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subset_generation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subset_withSum_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum_of_n_numbers_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/targetSum_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/targetSum_withRepetingNumbers_usingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/waysTogetSum_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BubbleSort_recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort_recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Remove_Consecutive_Duplicate_Characters_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Remove_Consecutive_Duplicate_Characters_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSumProblem_in_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSumProblem_in_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/balanceParanthesis_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/balanceParanthesis_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkArrayIsSortedOrNot_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkArrayIsSortedOrNot_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/even_oddPosition_insertionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/even_oddPosition_insertionSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorialOfNumber_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/factorialOfNumber_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek_onachi_no.java" beforeDir="false" afterPath="$PROJECT_DIR$/geek_onachi_no.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insertionSort_OnLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/insertionSort_OnLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insertionSort_onString.java" beforeDir="false" afterPath="$PROJECT_DIR$/insertionSort_onString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isPrimeOrNot_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/isPrimeOrNot_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lengthOfString_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/lengthOfString_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min_max_useingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/min_max_useingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numberOfStepsToReduceNumberToZero_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/numberOfStepsToReduceNumberToZero_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numberOfSwapsToSortArray_usingInsertion_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/numberOfSwapsToSortArray_usingInsertion_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/powerOfFour_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/powerOfFour_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/powerOfThree_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/powerOfThree_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/powerOfTwo_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/powerOfTwo_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productOfNaturalNumber_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/productOfNaturalNumber_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_of_two_using_recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/product_of_two_using_recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectionSortOnString.java" beforeDir="false" afterPath="$PROJECT_DIR$/selectionSortOnString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumOfnum_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/sumOfnum_usingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/sum_triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uniqueElement_count.java" beforeDir="false" afterPath="$PROJECT_DIR$/uniqueElement_count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merit_of_Strudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rat_In_maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/towerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +66,7 @@
     "Application.MajorityElement.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
     "Application.Max_SubArray_Sum.executor": "Run",
+    "Application.Merit_of_Strudents.executor": "Run",
     "Application.MoveZeros.executor": "Run",
     "Application.Quiz.executor": "Run",
     "Application.Remove_Consecutive_Duplicate_Characters_usingRecursion.executor": "Run",
@@ -251,6 +117,7 @@
     "Application.productOfNaturalNumber_usingRecursion.executor": "Run",
     "Application.productOfaArrayexceptItself.executor": "Run",
     "Application.product_of_two_using_recursion.executor": "Run",
+    "Application.rat_In_maze.executor": "Run",
     "Application.removeDuplicate.executor": "Run",
     "Application.reverse_characterString.executor": "Run",
     "Application.selectionSortOnString.executor": "Run",
@@ -267,6 +134,7 @@
     "Application.targetSum_usingRecursion.executor": "Run",
     "Application.targetSum_withRepetingNumbers_usingRecursion.executor": "Run",
     "Application.test.executor": "Run",
+    "Application.towerOfHanoi.executor": "Run",
     "Application.uniqueElement_count.executor": "Run",
     "Application.uppercase.executor": "Run",
     "Application.waysTogetSum_usingRecursion.executor": "Run",
