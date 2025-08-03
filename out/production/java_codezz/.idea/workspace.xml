@@ -5,10 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afd6b3d-5594-4037-bf3b-9031dfc05151" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Merit_of_Strudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/towerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_Pointer_And_SlidingWindow/lengthOfLongestSubstringWithoutRepeat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_subset_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/Array_subset_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSortUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/BubbleSortUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort_recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/BubbleSort_recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Check_ArraySorted_orNot_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/Check_ArraySorted_orNot_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remove_Consecutive_Duplicate_Characters_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/Remove_Consecutive_Duplicate_Characters_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectionSortUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/SelectionSortUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/balanceParanthesis_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/balanceParanthesis_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkArrayIsSortedOrNot_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/checkArrayIsSortedOrNot_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorialOfNumber_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/factorialOfNumber_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibo_usingDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/fibo_usingDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek_onachi_no.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/geek_onachi_no.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generateParanthesis_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/generateParanthesis_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isPrimeOrNot_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/isPrimeOrNot_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfString_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/lengthOfString_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lineraSearchInRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/lineraSearchInRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowercaseTouppercase_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/lowercaseTouppercase_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/min_max_useingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/min_max_useingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minimunCoins_to_make_a_amount.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/minimunCoins_to_make_a_amount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberOfStepsToReduceNumberToZero_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/numberOfStepsToReduceNumberToZero_usingRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_codezz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_codezz/Array_subset_usingRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patternUsingrecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/patternUsingrecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/perfectSum_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/perfectSum_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/permutationWithOutDuplicates_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/permutationWithOutDuplicates_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/permutationWithSwap_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/permutationWithSwap_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/permutation_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/permutation_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerOfFour_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/powerOfFour_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerOfThree_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/powerOfThree_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerOfTwo_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/powerOfTwo_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_of_two_using_recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/product_of_two_using_recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rat_In_maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/rat_In_maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse_fiboSeries_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/reverse_fiboSeries_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/sortUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subStringGenerate_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/subStringGenerate_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsetSum_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/subsetSum_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subset_withSum_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/subset_withSum_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumOfnum_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/sumOfnum_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sum_of_n_numbers_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/sum_of_n_numbers_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/targetSum_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/targetSum_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/targetSum_withRepetingNumbers_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/targetSum_withRepetingNumbers_usingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/towerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/towerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waysTogetSum_usingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion_problems/waysTogetSum_usingRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,106 +88,115 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AddsumMatch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BestTimeToBuyAndSellStock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSortUsingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CafeManagementSystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_ArraySorted_orNot_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CoffeeShopManagement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainerWithMostWater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Debika.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DuplicaateInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestConsecutiveSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxSubArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Max_SubArray_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merit_of_Strudents.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Quiz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Remove_Consecutive_Duplicate_Characters_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_Words_in_a_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSortUsingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringSkipp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Trapping_rain_Water.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSumProblem_in_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arraySum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.balanceParanthesis_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.checkArrayIsSortedOrNot_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.duplicate_in_array_withBitMaupilation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.duplicatesInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.even_oddPosition_insertionSorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorialOfNumber_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fibo_usingDP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.geek_onachi_no.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generateParanthesis_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.insertionSort_OnLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.insertionSort_onString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.intervalProblem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.isPrimeOrNot_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leetcodeprblm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lengthOfString_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lineraSearchInRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lowercaseTouppercase_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mergeSort_usingLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.min_max_useingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.numOfzeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.numberOfStepsToReduceNumberToZero_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.numberOfSwapsToSortArray_usingInsertion_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palandriom_rev.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindrom_check_for_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.parmutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.patternUsingrecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.perfectSum_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.permutationWithOutDuplicates_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.permutationWithSwap_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.permutation_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerOfFour_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerOfThree_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerOfTwo_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.productOfNaturalNumber_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.productOfaArrayexceptItself.executor&quot;: &quot;Run&quot;,
-    &quot;Application.product_of_two_using_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse_characterString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.selectionSortOnString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sortArraysOfZerosOnesTwos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sortUsingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subSeqence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subStringGenerate_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subsetSum_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subset_generation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subset_withSum_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumOfnum_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum_of_n_numbers_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.targetSum_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.targetSum_withRepetingNumbers_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.uniqueElement_count.executor&quot;: &quot;Run&quot;,
-    &quot;Application.uppercase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.waysTogetSum_usingRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive/Desktop/oops_java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AddsumMatch.executor": "Run",
+    "Application.Array_subset_usingRecursion.executor": "Run",
+    "Application.BestTimeToBuyAndSellStock.executor": "Run",
+    "Application.BubbleSortUsingRecursion.executor": "Run",
+    "Application.BubbleSort_recursion.executor": "Run",
+    "Application.CafeManagementSystem.executor": "Run",
+    "Application.Check_ArraySorted_orNot_usingRecursion.executor": "Run",
+    "Application.CoffeeShopManagement.executor": "Run",
+    "Application.ContainerWithMostWater.executor": "Run",
+    "Application.Debika.executor": "Run",
+    "Application.DuplicaateInArray.executor": "Run",
+    "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.MajorityElement.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
+    "Application.Max_SubArray_Sum.executor": "Run",
+    "Application.Merit_of_Strudents.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
+    "Application.Quiz.executor": "Run",
+    "Application.Remove_Consecutive_Duplicate_Characters_usingRecursion.executor": "Run",
+    "Application.Reverse_Words_in_a_String.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SelectionSortUsingRecursion.executor": "Run",
+    "Application.StringSkipp.executor": "Run",
+    "Application.Trapping_rain_Water.executor": "Run",
+    "Application.TwoSumProblem_in_array.executor": "Run",
+    "Application.arraySum.executor": "Run",
+    "Application.balanceParanthesis_usingRecursion.executor": "Run",
+    "Application.checkArrayIsSortedOrNot_usingRecursion.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.dice.executor": "Run",
+    "Application.duplicate_in_array_withBitMaupilation.executor": "Run",
+    "Application.duplicatesInArray.executor": "Run",
+    "Application.even_oddPosition_insertionSorting.executor": "Run",
+    "Application.factorialOfNumber_usingRecursion.executor": "Run",
+    "Application.fibo_usingDP.executor": "Run",
+    "Application.geek_onachi_no.executor": "Run",
+    "Application.generateParanthesis_usingRecursion.executor": "Run",
+    "Application.insertionSort_OnLinkedList.executor": "Run",
+    "Application.insertionSort_onString.executor": "Run",
+    "Application.intervalProblem.executor": "Run",
+    "Application.isPrimeOrNot_usingRecursion.executor": "Run",
+    "Application.leetcodeprblm.executor": "Run",
+    "Application.lengthOfLongestSubstringWithoutRepeat.executor": "Run",
+    "Application.lengthOfString_usingRecursion.executor": "Run",
+    "Application.lineraSearchInRecursion.executor": "Run",
+    "Application.lowercaseTouppercase_usingRecursion.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.mergeSort.executor": "Run",
+    "Application.mergeSort_usingLists.executor": "Run",
+    "Application.min_max_useingRecursion.executor": "Run",
+    "Application.numOfzeros.executor": "Run",
+    "Application.numberOfStepsToReduceNumberToZero_usingRecursion.executor": "Run",
+    "Application.numberOfSwapsToSortArray_usingInsertion_sort.executor": "Run",
+    "Application.palandriom_rev.executor": "Run",
+    "Application.palindrom_check_for_String.executor": "Run",
+    "Application.parmutation.executor": "Run",
+    "Application.patternUsingrecursion.executor": "Run",
+    "Application.perfectSum_usingRecursion.executor": "Run",
+    "Application.permutationWithOutDuplicates_usingRecursion.executor": "Run",
+    "Application.permutationWithSwap_usingRecursion.executor": "Run",
+    "Application.permutation_usingRecursion.executor": "Run",
+    "Application.powerOfFour_usingRecursion.executor": "Run",
+    "Application.powerOfThree_usingRecursion.executor": "Run",
+    "Application.powerOfTwo_usingRecursion.executor": "Run",
+    "Application.productOfNaturalNumber_usingRecursion.executor": "Run",
+    "Application.productOfaArrayexceptItself.executor": "Run",
+    "Application.product_of_two_using_recursion.executor": "Run",
+    "Application.rat_In_maze.executor": "Run",
+    "Application.removeDuplicate.executor": "Run",
+    "Application.reverse_characterString.executor": "Run",
+    "Application.selectionSortOnString.executor": "Run",
+    "Application.sortArraysOfZerosOnesTwos.executor": "Run",
+    "Application.sortUsingRecursion.executor": "Run",
+    "Application.subSeqence.executor": "Run",
+    "Application.subStringGenerate_usingRecursion.executor": "Run",
+    "Application.subsetSum_usingRecursion.executor": "Run",
+    "Application.subset_generation.executor": "Run",
+    "Application.subset_withSum_usingRecursion.executor": "Run",
+    "Application.sumOfnum_usingRecursion.executor": "Run",
+    "Application.sum_of_n_numbers_usingRecursion.executor": "Run",
+    "Application.sum_triangle.executor": "Run",
+    "Application.targetSum_usingRecursion.executor": "Run",
+    "Application.targetSum_withRepetingNumbers_usingRecursion.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.towerOfHanoi.executor": "Run",
+    "Application.uniqueElement_count.executor": "Run",
+    "Application.uppercase.executor": "Run",
+    "Application.waysTogetSum_usingRecursion.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/Desktop/oops_java",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;module&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
     ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\java_codezz\recursion_problems" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
